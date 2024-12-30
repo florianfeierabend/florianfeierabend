@@ -22,7 +22,7 @@ All of my projects are available on my portfolio website: [theshiva.xyz/projects
 
 <details>
   <summary>Github Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivabhattacharjee&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="florian" </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=florian&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="florian" </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=florian&show_icons=true&locale=en&theme=midnight-purple" alt="florian" /></p>
 
